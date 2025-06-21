@@ -73,14 +73,13 @@ def show_program():
                     %sINFORMATION%s
  ------------------------------------------------------
 
-    Author     Debby Anggraini 'CiKu370'
+    Author     Tama '@tamavilo'
     Name       OSIF 'Open Source Information Facebook'
-    CodeName   D3b2y
+    CodeName   tamavilo
     version    full version
-    Date       16/05/2018 09:35:12
+    Date       21/06/2025 09:35:12
     Team       Blackhole Security
     Email      xnver404@gmail.com
-    Telegram   @CiKu370
 
 * if you find any errors or problems , please contact
   author
